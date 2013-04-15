@@ -33,3 +33,9 @@ github "sudo",     "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+# stable chrome
+include chrome
+# canary chrome
+include chrome::canary
+
